@@ -1,3 +1,6 @@
+<img src="seaborn_logo.svg" alt="NumPy Logo" style="width:350px; height:100px;">
+<h1>Seaborn Python Library:</h1>
+
 # 📊 Seaborn Python Library 📊
 
 ## 📚 Topics Covered
