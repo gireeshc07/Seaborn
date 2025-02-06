@@ -1,4 +1,5 @@
 <img src="seaborn_logo.svg" alt="NumPy Logo" style="width:350px; height:100px;">
+
 # 📊 Seaborn Python Library 📊
 
 ## 📚 Topics Covered
